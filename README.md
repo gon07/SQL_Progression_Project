@@ -1,2 +1,2 @@
 # proyectoMySQL
-Proyecto en MySQL de de instrucciones en SQL.
+Proyecto en MySQL acerca del uso de instrucciones en SQL.
