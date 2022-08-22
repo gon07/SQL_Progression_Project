@@ -1,2 +1,2 @@
 # proyectoMySQL
-Proyecto en MySQL acerca del uso de instrucciones en SQL.
+¡Hola! El siguiente Proyecto fue desarrollado utilizando el motor de base de datos MySQL, se trabajó con instrucciones en SQL para resolver lo solicitado.
