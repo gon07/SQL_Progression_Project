@@ -1,2 +1,1 @@
-# proyectoMySQL
-El siguiente Proyecto fue desarrollado utilizando el motor de base de datos MySQL y se trabajó con instrucciones SQL(Structured Query Language).
+Proyecto de SQL que reúne consultas organizadas de menor a mayor complejidad. Incluye desde selecciones y filtros básicos hasta consultas avanzadas con JOIN, subconsultas, agregaciones y funciones analíticas.
